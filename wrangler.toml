@@ -1,0 +1,6 @@
+name = "todo-app-kv"
+main = "src/index.js"
+compatibility_date = "2022-12-28"
+kv_namespaces = [
+    { binding = "MY_FIRST_KV", id = "60e1384561c74a1e80d4c2497718b7af",preview_id = "902572c1046b4371a6987d47f726707a" }
+]
