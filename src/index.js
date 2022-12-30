@@ -6,7 +6,7 @@ const html = (data) => `
     <meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="description" content="todo app">
     <title>Todos</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet"></link>
+    <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body class="bg-black">
     <div class="w-full h-full flex content-center justify-center mt-8">
